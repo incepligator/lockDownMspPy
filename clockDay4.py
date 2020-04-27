@@ -7,7 +7,7 @@ wn.bgcolor("lightgreen")
 wn.title("Hello LockDownPython")
 
 alex = turtle.Turtle()
-alex.speed(1)
+alex.speed(5)
 
 alex.color("black","red")
 alex.begin_fill()
