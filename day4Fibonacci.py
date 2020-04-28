@@ -130,4 +130,6 @@ for i in range(100):
         alex.goto(position[i *5])
 
 wn.mainloop()
+
+
 print("Minnesota")
